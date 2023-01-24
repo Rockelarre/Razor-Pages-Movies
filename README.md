@@ -1,7 +1,7 @@
 # Razor-Pages-Movies
 
 Esta es una sencilla aplicación de gestión de películas, creada en base al tutorial de Microsoft: 
-### "Creación de una aplicación web de Razor Pages con ASP.NET Core" 
+### "Creación de una aplicación web de Razor Pages con ASP.NET Core 7.0" 
 
 Ubicado en la siguiente url: 
 https://learn.microsoft.com/es-es/aspnet/core/tutorials/razor-pages/?view=aspnetcore-7.0
